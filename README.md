@@ -52,6 +52,7 @@ not finished yet
 
 # Schematic 
 
-not yet done 
+<img width="727" height="727" alt="Screenshot 2026-05-06 194307" src="https://github.com/user-attachments/assets/f2e621e8-3f8c-445c-a560-2bc3d4486b62" />
+
 
 
