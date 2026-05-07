@@ -52,7 +52,8 @@ not finished yet
 
 # Schematic 
 
-<img width="727" height="727" alt="Screenshot 2026-05-06 194307" src="https://github.com/user-attachments/assets/f2e621e8-3f8c-445c-a560-2bc3d4486b62" />
+<img width="370" height="364" alt="wiring_diagram" src="https://github.com/user-attachments/assets/43dc4656-345b-439d-a339-1258e006b47e" />
+
 
 
 
