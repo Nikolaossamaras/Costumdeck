@@ -37,6 +37,7 @@ $146,53 | Raspberry Pi 5 - 4GB : https://grobotronics.com/raspberry-pi-5-4gb.htm
 $11,61 | Case for Raspberry Pi 5 - Dual Cooling Fans : https://grobotronics.com/aluminum-case-for-raspberry-pi-5-dual-cooling-fans.html 
 
 $14.8 | Mini External USB Stereo Speaker :  https://thepihut.com/products/mini-external-usb-stereo-speaker?srsltid=AfmBOopQVRhLHqBgGIsC4eccUKwmXt06rSDUlfESYZs8aFgG62tKm0h5
+
 $1.72 | circle toggle Switch : https://www.aliexpress.com/item/1005009885380072.html?spm=a2g0o.productlist.main.25.231632a60raUhU&algo_pvid=2047e7de-9e23-45d5-a660-b7beb98225ab&algo_exp_id=2047e7de-9e23-45d5-a660-b7beb98225ab-24&pdp_ext_f=%7B"order"%3A"1457"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21USD%213.72%211.72%21%21%213.72%211.72%21%402103892f17780009223693493e83cf%2112000050477989766%21sea%21GR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac3a18a13%3Bm03_new_user%3A-29895%3BpisId%3A5000000204855994&curPageLogUid=UCLrUHRHwZU9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009885380072%7C_p_origin_prod%3A
 
 $4.85 | Cable management cables (i bought the 50 , more than enough) : https://www.aliexpress.com/item/1005006980266553.html?spm=a2g0o.productlist.main.28.785e7bf900dwP3&aem_p4p_detail=202605041001001927853709928960008351194&algo_pvid=e6ad757e-3439-4ce2-a3f9-3fe64b209f7e&algo_exp_id=e6ad757e-3439-4ce2-a3f9-3fe64b209f7e-27&pdp_ext_f=%7B
