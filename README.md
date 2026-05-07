@@ -14,7 +14,6 @@ Full Size Wireless Keyboard with Trackpad(2.4G wireless for up to 10 meters)
 
 Sandisk Ultra microSDXC 256GB
 
-a translucent case for the keyboard, attached into the behind of the  case .
 
 # Parts List:
 
