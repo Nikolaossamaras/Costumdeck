@@ -96,6 +96,7 @@ watch the video below:
 ## Zine page
 
 *Made for Hack Club Fallout -- Shenzhen 2025*
+
 <img width="1587" height="2245" alt="COSTUMDECK_zinePage" src="https://github.com/user-attachments/assets/8eafac68-1cc4-431c-bcfa-a2094f3af8ff" />
 
 
