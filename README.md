@@ -16,7 +16,7 @@ That's why i decided to build this project
 </p>
 
 <p align="center">
-<img width="841" height="541" alt="Screenshot 2026-05-08 112857" src="https://github.com/user-attachments/assets/9b3210b6-eab0-4af3-b740-79af21c611d7" />
+<img width="732" height="425" alt="Screenshot 2026-05-08 125221" src="https://github.com/user-attachments/assets/04a52aac-67e7-4374-b46d-74e5a1d6f25f" />
 </p>
 
 <p align="center">
