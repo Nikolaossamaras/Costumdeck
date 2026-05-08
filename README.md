@@ -67,6 +67,10 @@ The file | custumdeck cyber deck case unslip.step | is the 3D file for the full 
 
 <img width="370" height="364" alt="wiring_diagram" src="https://github.com/user-attachments/assets/43dc4656-345b-439d-a339-1258e006b47e" />
 
+## Credits
+
+- [Fusion 360]([https://www.freecad.org/](https://fusion-360.en.uptodown.com/windows#google_vignette)) — 3D Case Design
+
 
 
 
