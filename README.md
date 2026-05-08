@@ -38,13 +38,13 @@ $11,61 | Case for Raspberry Pi 5 - Dual Cooling Fans : https://grobotronics.com/
 
 $14.8 | Mini External USB Stereo Speaker :  https://thepihut.com/products/mini-external-usb-stereo-speaker?srsltid=AfmBOopQVRhLHqBgGIsC4eccUKwmXt06rSDUlfESYZs8aFgG62tKm0h5
 
-$0.99 | circle push button : https://nl.aliexpress.com/item/1005008777109283.html?spm=a2g0o.productlist.main.4.744736b0fWIQDJ&aem_p4p_detail=202605070008075248557602892310004672931&algo_pvid=b93b5797-1774-4010-99a1-b945c5eea536&algo_exp_id=b93b5797-1774-4010-99a1-b945c5eea536-3&pdp_ext_f=%7B"order"%3A"687"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%213.72%210.86%21%21%2129.08%216.75%21%40211b80f717781376872336750ec9fe%2112000046625853604%21sea%21NL%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A32170391%3Bm03_new_user%3A-29895%3BpisId%3A5000000205564816&curPageLogUid=gdvzjdacPxtY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008777109283%7C_p_origin_prod%3A&search_p4p_id=202605070008075248557602892310004672931_1&gatewayAdapt=glo2nld
+$2.01 | circle push button : https://nl.aliexpress.com/item/1005008777109283.html?spm=a2g0o.productlist.main.4.744736b0fWIQDJ&aem_p4p_detail=202605070008075248557602892310004672931&algo_pvid=b93b5797-1774-4010-99a1-b945c5eea536&algo_exp_id=b93b5797-1774-4010-99a1-b945c5eea536-3&pdp_ext_f=%7B"order"%3A"687"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%213.72%210.86%21%21%2129.08%216.75%21%40211b80f717781376872336750ec9fe%2112000046625853604%21sea%21NL%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A32170391%3Bm03_new_user%3A-29895%3BpisId%3A5000000205564816&curPageLogUid=gdvzjdacPxtY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008777109283%7C_p_origin_prod%3A&search_p4p_id=202605070008075248557602892310004672931_1&gatewayAdapt=glo2nld
 
 $4.85 | Cable management cables (i bought the 50 , more than enough) : https://www.aliexpress.com/item/1005006980266553.html?spm=a2g0o.productlist.main.28.785e7bf900dwP3&aem_p4p_detail=202605041001001927853709928960008351194&algo_pvid=e6ad757e-3439-4ce2-a3f9-3fe64b209f7e&algo_exp_id=e6ad757e-3439-4ce2-a3f9-3fe64b209f7e-27&pdp_ext_f=%7B
 
 $1.59 | Oled display : https://www.aliexpress.com/item/1005010533773546.html?spm=a2g0o.productlist.main.12.80a0380fjYFo1g&algo_pvid=13b80a23-73aa-415c-a4bf-6fdd8fbb73d7&algo_exp_id=13b80a23-73aa-415c-a4bf-6fdd8fbb73d7-11&pdp_ext_f=%7B"order"%3A"62"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21USD%213.74%211.59%21%21%2125.42%2110.78%21%40211b6c1917779258809727714ebb48%2112000052732003157%21sea%21GR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac3a18a13%3Bm03_new_user%3A-29895%3BpisId%3A5000000204855994&curPageLogUid=WitolwezkrXq&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010533773546%7C_p_origin_prod%3A 
 
-TOTAL : $380.41
+TOTAL : $381.43
 
 # 3D Files
 
