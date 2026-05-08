@@ -1,5 +1,5 @@
 # Costumdeck
-> Your take and go Diy computer with a esp32 build-in so you can code on the go
+> Your take and go DIY computer with a esp32 build-in so you can code on the go
 
 
 ICON of the full modeled project here
