@@ -79,6 +79,7 @@ Personally the design did not fit in my printer so i ordered it from pcbway
 ### Assembly 
 watch the video below:
 [Video](link)
+> haven't uploaded it yet , because i dont have yet the parts
 
 ## Credits
 
