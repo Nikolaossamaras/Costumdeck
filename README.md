@@ -105,7 +105,7 @@ watch the video below:
 
 - [Fusion_360](https://fusion-360.en.uptodown.com/windows) — 3D Case Design
 - [HackClub](https://hackclub.com/) - HackClub gave me the chance to start this project
-- credits to giansaloustros@gmail.com - It was nice working together
+- credits to [Giannhssal](https://github.com/giannhsal) - It was nice working together
 
 
 
