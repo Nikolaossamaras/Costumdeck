@@ -11,11 +11,13 @@ I always loved coding and making hardware projects , but i always thought what i
 That's why i decided to build this project
 
 ## How it looks
-
+<p align="center">
 <img width="993" height="755" alt="Screenshot 2026-05-08 113026" src="https://github.com/user-attachments/assets/f36c4ad7-8d2f-4e5d-9cc5-3080f8dd0aba" />
 <img width="841" height="541" alt="Screenshot 2026-05-08 112857" src="https://github.com/user-attachments/assets/9b3210b6-eab0-4af3-b740-79af21c611d7" />
+</p>
+<p align="center">
 <img width="912" height="610" alt="Screenshot 2026-05-08 112921" src="https://github.com/user-attachments/assets/9bacf4a7-022d-469c-b2af-58bd465b651f" />
-
+</p>
 
 
 ## Specs:
