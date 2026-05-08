@@ -1,3 +1,4 @@
+<img width="763" height="458" alt="Screenshot 2026-05-08 165910" src="https://github.com/user-attachments/assets/c46a6236-874f-4c5e-8f5c-2f6f614a023c" />
 # Costumdeck
 > Your take and go DIY computer with a esp32 build-in so you can code on the go
 
@@ -16,7 +17,7 @@ That's why i decided to build this project
 </p>
 
 <p align="center">
-<img width="732" height="425" alt="Screenshot 2026-05-08 125221" src="https://github.com/user-attachments/assets/04a52aac-67e7-4374-b46d-74e5a1d6f25f" />
+<img width="763" height="458" alt="Screenshot 2026-05-08 165910" src="https://github.com/user-attachments/assets/263f8dd5-5266-4bca-a8ac-6c88696e77cf" />
 </p>
 
 <p align="center">
