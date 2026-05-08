@@ -67,9 +67,23 @@ The file | [`Custumdeck case`](custumdeckcyberdeckcaseunslip.step)| is the 3D fi
 
 <img width="370" height="364" alt="wiring_diagram" src="https://github.com/user-attachments/assets/43dc4656-345b-439d-a339-1258e006b47e" />
 
+## How to build
+
+### Parts needed 
+see Parts List 
+
+### 3D case printing
+
+Personally the design did not fit in my printer so i ordered it from pcbway
+
+### Assembly 
+watch the video below:
+[Video](link)
+
 ## Credits
 
 - [Fusion_360](https://fusion-360.en.uptodown.com/windows) — 3D Case Design
+- [pcbway](https://www.pcbway.com/) - Printing 
 
 
 
