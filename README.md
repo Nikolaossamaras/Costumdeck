@@ -1,4 +1,4 @@
-<img width="763" height="458" alt="Screenshot 2026-05-08 165910" src="https://github.com/user-attachments/assets/c46a6236-874f-4c5e-8f5c-2f6f614a023c" />
+
 # Costumdeck
 > Your take and go DIY computer with a esp32 build-in so you can code on the go
 
