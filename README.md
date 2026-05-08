@@ -1,7 +1,7 @@
 # Costumdeck
 > Your take and go DIY computer with a esp32 build-in so you can code on the go
 
-# Why i build it
+## Why i build it
 
 I always loved coding and making hardware projects , but i always thought what if i can do it anywhere without needing a desktop . So i thought what if i made a Cyberdeck that can do the exact thing that i wanted ... to code and build anywhere.
 That's why i decided to build this project
@@ -10,7 +10,7 @@ That's why i decided to build this project
 ICON of the full modeled project here
 
 
-# Specs:
+## Specs:
 
 Raspberry Pi 5 - 4GB(not really sure if works with other models , but it should. with some modifications at least)
 
@@ -21,7 +21,7 @@ Full Size Wireless Keyboard with Trackpad(2.4G wireless for up to 10 meters)
 Sandisk Ultra microSDXC 256GB
 
 
-# Parts List:
+## Parts List:
 
 $47.24|Full Size Wireless Keyboard with Trackpad: https://thepihut.com/products/full-size-wireless-keyboard-with-trackpad?srsltid=AfmBOoqxsOpqek68vBXaLB8JdmsbwbLmhRR3TsQ0_TycZPBLu17UiHCh
 
@@ -54,11 +54,11 @@ TOTAL : $381.43
 
 [`bill of materials.xlsx`](billofmaterials.xlsx)
 
-# 3D Files
+## 3D Files
 
 The file | custumdeck cyber deck case unslip.step | is the 3D file for the full design of the case 
 
-# Wiring diagram
+## Wiring diagram
 
 <img width="370" height="364" alt="wiring_diagram" src="https://github.com/user-attachments/assets/43dc4656-345b-439d-a339-1258e006b47e" />
 
