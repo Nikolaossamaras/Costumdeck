@@ -50,7 +50,7 @@ TOTAL : $380.41
 
 not finished yet
 
-# Schematic 
+# Wiring diagram
 
 <img width="370" height="364" alt="wiring_diagram" src="https://github.com/user-attachments/assets/43dc4656-345b-439d-a339-1258e006b47e" />
 
