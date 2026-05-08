@@ -1,11 +1,16 @@
 # Costumdeck
 > Your take and go DIY computer with a esp32 build-in so you can code on the go
 
+## What is it? 
+
+This project is a DIY Computer mostly known as Cyberdeck  that allows you to code and build anywhere you go with it's build in esp32
+
 ## Why i build it
 
 I always loved coding and making hardware projects , but i always thought what if i can do it anywhere without needing a desktop . So i thought what if i made a Cyberdeck that can do the exact thing that i wanted ... to code and build anywhere.
 That's why i decided to build this project
 
+## How it looks
 
 ICON of the full modeled project here
 
