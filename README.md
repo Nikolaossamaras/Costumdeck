@@ -83,7 +83,7 @@ see Parts List
 
 ### 3D case printing
 
-Personally the design did not fit in my printer so i ordered it from pcbway
+You will need to stop the printing at some point arround 4.5 hours so you can add the nuts in the holes 
 
 ---
 
@@ -95,7 +95,6 @@ watch the video below:
 ## Credits
 
 - [Fusion_360](https://fusion-360.en.uptodown.com/windows) — 3D Case Design
-- [pcbway](https://www.pcbway.com/) - Printing
 - [HackClub](https://hackclub.com/) - HackClub gave me the chance to start this project
 - credits to giansaloustros@gmail.com - It was nice working together
 
