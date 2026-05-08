@@ -8,7 +8,7 @@ ICON of the full modeled project here
 
 Raspberry Pi 5 - 4GB(not really sure if works with other models , but it should. with some modifications at least)
 
-10.1 inch LCD Display Screen with touchscreen compatible for raspberry pi(you can choose between the touchscreen and the no-touchscreen display)
+10.1 inch LCD Display Screen with touchscreen compatible for raspberry pi 
 
 Full Size Wireless Keyboard with Trackpad(2.4G wireless for up to 10 meters)
 
