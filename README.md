@@ -46,6 +46,8 @@ $1.59 | Oled display : https://www.aliexpress.com/item/1005010533773546.html?spm
 
 TOTAL : $381.43
 
+[`bill of materials.xlsx`](BOM%20components.csv)
+
 # 3D Files
 
 The file | custumdeck cyber deck case unslip.step | is the 3D file for the full design of the case 
