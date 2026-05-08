@@ -12,7 +12,10 @@ That's why i decided to build this project
 
 ## How it looks
 
-ICON of the full modeled project here
+<img width="993" height="755" alt="Screenshot 2026-05-08 113026" src="https://github.com/user-attachments/assets/f36c4ad7-8d2f-4e5d-9cc5-3080f8dd0aba" />
+<img width="841" height="541" alt="Screenshot 2026-05-08 112857" src="https://github.com/user-attachments/assets/9b3210b6-eab0-4af3-b740-79af21c611d7" />
+<img width="912" height="610" alt="Screenshot 2026-05-08 112921" src="https://github.com/user-attachments/assets/9bacf4a7-022d-469c-b2af-58bd465b651f" />
+
 
 
 ## Specs:
@@ -84,7 +87,9 @@ watch the video below:
 ## Credits
 
 - [Fusion_360](https://fusion-360.en.uptodown.com/windows) — 3D Case Design
-- [pcbway](https://www.pcbway.com/) - Printing 
+- [pcbway](https://www.pcbway.com/) - Printing
+- [HackClub](https://hackclub.com/) - HackClub gave me the chance to start this project<img width="993" height="755" alt="Screenshot 2026-05-08 113026" src="https://github.com/user-attachments/assets/50eccfec-5a6c-41d9-9cdd-f8d93c5fecc5" />
+
 
 
 
