@@ -97,7 +97,8 @@ watch the video below:
 
 *Made for Hack Club Fallout -- Shenzhen 2025*
 
-<img width="1587" height="2245" alt="COSTUMDECK" src="https://github.com/user-attachments/assets/f9b00970-6bdf-4909-9bfd-82286c163bdc" />
+<img width="1587" height="2245" alt="COSTUMDECK" src="https://github.com/user-attachments/assets/9efe45b5-73b3-4a4b-ba28-c9ebbeb4214c" />
+
 
 
 
