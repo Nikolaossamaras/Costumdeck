@@ -97,6 +97,7 @@ watch the video below:
 - [Fusion_360](https://fusion-360.en.uptodown.com/windows) — 3D Case Design
 - [pcbway](https://www.pcbway.com/) - Printing
 - [HackClub](https://hackclub.com/) - HackClub gave me the chance to start this project
+- credits to giansaloustros@gmail.com - It was nice working together
 
 
 
