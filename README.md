@@ -19,6 +19,9 @@ That's why i decided to build this project
 <img width="732" height="425" alt="Screenshot 2026-05-08 125221" src="https://github.com/user-attachments/assets/04a52aac-67e7-4374-b46d-74e5a1d6f25f" />
 </p>
 
+<p align="center">
+<img width="588" height="417" alt="Screenshot 2026-05-08 130308" src="https://github.com/user-attachments/assets/1a32ac7b-9387-43dd-80da-b4822531499c" />
+</p>
 
 ## Specs:
 
