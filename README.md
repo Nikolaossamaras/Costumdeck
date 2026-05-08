@@ -48,7 +48,7 @@ TOTAL : $381.43
 
 # 3D Files
 
-not finished yet
+The file | custumdeck cyber deck case unslip | is the 3D file for the case 
 
 # Wiring diagram
 
