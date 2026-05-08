@@ -92,6 +92,13 @@ You will need to stop the printing at some point arround 4.5 hours so you can ad
 watch the video below:
 [Video](link)
 > haven't uploaded it yet , because i dont have yet the parts
+> 
+## Zine page
+
+*Made for Hack Club Fallout -- Shenzhen 2025*
+<img width="1587" height="2245" alt="COSTUMDECK_zinePage" src="https://github.com/user-attachments/assets/8eafac68-1cc4-431c-bcfa-a2094f3af8ff" />
+
+
 
 ## Credits
 
