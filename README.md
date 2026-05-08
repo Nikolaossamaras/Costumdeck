@@ -69,7 +69,7 @@ The file | custumdeck cyber deck case unslip.step | is the 3D file for the full 
 
 ## Credits
 
-- [Fusion_360]([https://www.freecad.org/](https://fusion-360.en.uptodown.com/windows#google_vignette)) — 3D Case Design
+- [Fusion_360](https://fusion-360.en.uptodown.com/windows) — 3D Case Design
 
 
 
