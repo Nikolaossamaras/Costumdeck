@@ -67,6 +67,7 @@ $1.59 | Oled display : https://www.aliexpress.com/item/1005010533773546.html?spm
 ---
 TOTAL : 398.46$
 
+
 [`bill of materials.xlsx`](BOM.xlsx)
 
 ## 3D Files
