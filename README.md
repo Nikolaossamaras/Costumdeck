@@ -13,7 +13,7 @@ That's why i decided to build this project
 
 ## How it looks
 <p align="center">
-<img width="993" height="755" alt="Screenshot 2026-05-08 113026" src="https://github.com/user-attachments/assets/f36c4ad7-8d2f-4e5d-9cc5-3080f8dd0aba" />
+<img width="1054" height="739" alt="image" src="https://github.com/user-attachments/assets/b930cb3f-4f0d-4658-9fee-35f594cef1b5" />
 </p>
 
 <p align="center">
