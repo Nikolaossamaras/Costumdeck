@@ -72,7 +72,7 @@ TOTAL : 398.46$
 
 ## 3D Files
 
-The file | [`Custumdeck case`](custumdeckcyberdeckcaseunslip.step)| is the 3D file for the full design of the case 
+The file | [`Custumdeck case`](custumdeckcyberdeckcaseunslipv2(2).step)| is the 3D file for the full design of the case 
 
 ## Wiring diagram
 
