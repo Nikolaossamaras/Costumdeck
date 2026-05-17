@@ -65,7 +65,10 @@ $1.59 | Oled display : https://www.aliexpress.com/item/1005010533773546.html?spm
 ---
 3.99$ | Micro HDMI-Compatible TO HDMI-Compatible Extension Male to Male Cable : https://www.aliexpress.com/item/1005005234656504.html?spm=a2g0o.productlist.main.25.1ffa46030Xsp2Z&algo_pvid=ef9e64bc-ab6f-4fa1-ac99-8cfcd52d0199&algo_exp_id=ef9e64bc-ab6f-4fa1-ac99-8cfcd52d0199-24&pdp_ext_f=%7B"order"%3A"154"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%215.49%213.51%21%21%2142.43%2127.10%21%402103846917789451558672003ecdcc%2112000032307161253%21sea%21GR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895%3BpisId%3A5000000205243253&curPageLogUid=JV3LkulakZBQ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005234656504%7C_p_origin_prod%3A
 ---
-TOTAL : 398.46$
+25.69$ | New Solar Portable Power Bank :https://www.aliexpress.com/item/1005010643992027.html?spm=a2g0o.productlist.main.3.41346681ur9fpe&algo_pvid=ea67cea8-9845-4236-843e-33b20a6f9e56&algo_exp_id=ea67cea8-9845-4236-843e-33b20a6f9e56-2&pdp_ext_f=%7B"order"%3A"6"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%2122.89%2121.35%21%21%21179.12%21167.01%21%40210390c917778278427087013eee59%2112000053069134969%21sea%21GR%216144035917%21X%211%210%21n_tag%3A-29919%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895&curPageLogUid=qJimVCLho64i&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010643992027%7C_p_origin_prod%3A
+---
+
+TOTAL : 424.15$
 
 
 [`bill of materials.xlsx`](BOM.xlsx)
