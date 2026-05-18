@@ -1,6 +1,6 @@
 
 # Costumdeck
-> Your take and go DIY computer with a esp32 build-in so you can code on the go
+> A portable DIY cyberdeck powered by a Raspberry Pi 5 and built-in ESP32, designed for coding, hardware hacking, and building projects anywhere.
 
 ## What is it? 
 
