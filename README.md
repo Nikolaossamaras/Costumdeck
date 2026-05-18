@@ -1,116 +1,238 @@
-
 # Costumdeck
+
 > A portable DIY cyberdeck powered by a Raspberry Pi 5 and built-in ESP32, designed for coding, hardware hacking, and building projects anywhere.
 
-## What is it? 
+## What is Costumdeck?
 
-This project is a DIY Computer mostly known as Cyberdeck  that allows you to code and build anywhere you go with it's build in esp32
+Costumdeck is a portable DIY cyberdeck inspired by retro-futuristic portable computers. It combines the power of a Raspberry Pi 5 with a built-in ESP32-S3, allowing you to code, prototype electronics projects, and build hardware wherever you are.
 
-## Why i build it
+The goal of this project is to create a compact “take-anywhere” development machine that works both as a Linux computer and an embedded systems workstation.
 
-I always loved coding and making hardware projects , but i always thought what if i can do it anywhere without needing a desktop . So i thought what if i made a Cyberdeck that can do the exact thing that i wanted ... to code and build anywhere.
-That's why i decided to build this project
+Unlike a normal laptop, Costumdeck is fully customizable, modular, repairable, and designed specifically for makers and developers.
 
-## How it looks
+---
+
+## Features
+
+- Portable Raspberry Pi 5 cyberdeck
+- Built-in ESP32-S3 for embedded development
+- 10.1" touchscreen display
+- Full-size wireless keyboard with integrated trackpad
+- Custom 3D printed case
+- OLED display for extra information/status
+- USB hub expansion
+- Portable power bank powered
+- Compact maker-focused workstation
+- Designed for coding and hardware projects on the go
+
+---
+
+## Why I Built It
+
+I have always loved coding and building hardware projects, but I kept thinking:
+
+> “What if I could do all of this anywhere without needing a desktop setup?”
+
+I wanted something portable that could handle:
+- programming
+- electronics development
+- Linux tools
+- embedded systems projects
+- hardware prototyping
+
+So I decided to build my own cyberdeck — a fully portable DIY computer that allows me to code and build projects anywhere I go.
+
+This project is also a way for me to learn more about:
+- 3D design
+- electronics
+- embedded systems
+- hardware integration
+- portable computing
+
+---
+
+## How to Use
+
+1. Power the device using the portable power bank
+2. Boot into Raspberry Pi OS
+3. Use the wireless keyboard and touchscreen for navigation
+4. Program the ESP32 directly from the Raspberry Pi
+5. Connect sensors, modules, or external devices using the USB hub and GPIO pins
+6. Use it as a portable workstation for:
+   - Python
+   - Arduino
+   - MicroPython
+   - Linux development
+   - electronics projects
+   - hardware prototyping
+
+---
+
+# Project Preview
+
+## Full Cyberdeck Design
+
 <p align="center">
 <img width="1054" height="739" alt="image" src="https://github.com/user-attachments/assets/b930cb3f-4f0d-4658-9fee-35f594cef1b5" />
 </p>
+
+---
+
+## Internal Layout
 
 <p align="center">
 <img width="763" height="458" alt="Screenshot 2026-05-08 165910" src="https://github.com/user-attachments/assets/263f8dd5-5266-4bca-a8ac-6c88696e77cf" />
 </p>
 
-
-
-## Specs:
-
-Raspberry Pi 5 - 4GB(not really sure if works with other models , but it should. with some modifications at least)
-
-10.1 inch LCD Display Screen with touchscreen compatible for raspberry pi 
-
-Full Size Wireless Keyboard with Trackpad(2.4G wireless for up to 10 meters)
-
-Sandisk Ultra microSDXC 256GB
-
-
-## Parts List:
-
-$47.24|Full Size Wireless Keyboard with Trackpad: https://thepihut.com/products/full-size-wireless-keyboard-with-trackpad?srsltid=AfmBOoqxsOpqek68vBXaLB8JdmsbwbLmhRR3TsQ0_TycZPBLu17UiHCh
----
-$3.99x2|USB HUB: https://www.aliexpress.com/item/1005008015931547.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.11.4701j8Mvj8Mvgu&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a51bca9c-d55a-4a84-a71d-8445ffcff518&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3Aa51bca9c-d55a-4a84-a71d-8445ffcff518%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B"order"%3A"7554"%2C"eval"%3A"1"%2C"sceneId"%3A"30050"%2C"fromPage"%3A"recommend"%7D&pdp_npi=6%40dis%21EUR%219.21%218.37%21%21%2172.08%2165.50%21%40211b81a317778327556635638e575e%2112000043298119855%21rec%21GR%216144035917%21X%211%210%21n_tag%3A-29919%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895%3BpisId%3A5000000204360949&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008015931547%7C_p_origin_prod%3A
----
-3.49$ | USB A to Type C Fast Charger Cable : https://www.aliexpress.com/item/1005010262687837.html?spm=a2g0o.productlist.main.11.479f13ecXateVL&algo_pvid=c68b7c00-f586-4d6b-9425-de7121ef9c1f&algo_exp_id=c68b7c00-f586-4d6b-9425-de7121ef9c1f-10&pdp_ext_f=%7B"order"%3A"24"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%212.70%212.71%21%21%2120.89%2120.89%21%402103868817789454132817525e4929%2112000051709001498%21sea%21GR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895&curPageLogUid=HWPpqkVC7qQ9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010262687837%7C_p_origin_prod%3A
----
-$5.13 | ARROW keys only keyboard: https://www.aliexpress.com/item/1005005508965949.html?spm=a2g0o.productlist.main.1.d5817c5cNjBI9Z&algo_pvid=133f5f7e-415a-4eb2-912e-bb4ff94000e2&algo_exp_id=133f5f7e-415a-4eb2-912e-bb4ff94000e2-0&pdp_ext_f=%7B"order"%3A"420"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%2111.39%219.91%21%21%2189.12%2177.55%21%40211b615317778317339191344e6ddd%2112000040517742525%21sea%21GR%216144035917%21X%211%210%21n_tag%3A-29919%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895%3BpisId%3A5000000204360949&curPageLogUid=ALMohtrEA4zM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005508965949%7C_p_origin_prod%3A
----
-$73.01 | 10.1 inch LCD Display Screen with touchscreen compatible for raspberry pi: https://www.aliexpress.com/item/1005010238601417.html?spm=a2g0o.productlist.main.2.1e793afbPOiJ04&algo_pvid=a8eb9bc5-d9b0-446e-9c4a-f61c9765428d&algo_exp_id=a8eb9bc5-d9b0-446e-9c4a-f61c9765428d-1&pdp_ext_f=%7B"order"%3A"9"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%2137.22%2138.30%21%21%21291.20%21299.72%21%40211b80f717778311307875447eca0e%2112000051644022261%21sea%21GR%216144035917%21X%211%210%21n_tag%3A-29919%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895%3BpisId%3A5000000204360949&curPageLogUid=xsp1vK1pGoza&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010238601417%7C_p_origin_prod%3A
----
-$46,34 | Sandisk Ultra microSDXC 256GB with adapter : https://www.skroutz.gr/s/38513098/Sandisk-Ultra-microSDXC-256GB-U1-A1-UHS-I-150MB-s-me-antaptora.html
----
-$2.3 | anti drift joystick: https://www.aliexpress.com/item/1005009393602262.html?spm=a2g0o.productlist.main.15.29356WWT6WWTok&algo_pvid=bc93188c-a258-4d68-a166-79b9e5dd8446&algo_exp_id=bc93188c-a258-4d68-a166-79b9e5dd8446-14&pdp_ext_f=%7B"order"%3A"6"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%212.05%212.05%21%21%2116.07%2116.05%21%402103834817778275317366479e82f8%2112000048962221499%21sea%21GR%216144035917%21X%211%210%21n_tag%3A-29919%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895&curPageLogUid=nAF02VxUecyf&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009393602262%7C_p_origin_prod%3A
----
-$3.99 | esp32 S3 Development Boards with Expansion Adapter Kit (the 15 icon) : https://www.aliexpress.com/item/1005007319706057.html?spm=a2g0o.productlist.main.13.26c474048T7Gej&algo_pvid=3af72925-4421-4fc0-a135-6ca7672c8c10&algo_exp_id=3af72925-4421-4fc0-a135-6ca7672c8c10-12&pdp_ext_f=%7B"order"%3A"19452"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%213.29%212.43%21%21%213.77%212.78%21%40211b65de17778270247768785ef36d%2112000048487692484%21sea%21GR%216144035917%21X%211%210%21n_tag%3A-29919%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895%3BpisId%3A5000000204360949&curPageLogUid=F7SwfvijE5cC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007319706057%7C_p_origin_prod%3A
----
-$146,53 | Raspberry Pi 5 - 4GB : https://grobotronics.com/raspberry-pi-5-4gb.html 
----
-$11,61 | Case for Raspberry Pi 5 - Dual Cooling Fans : https://grobotronics.com/aluminum-case-for-raspberry-pi-5-dual-cooling-fans.html 
----
-$14.8 | Mini External USB Stereo Speaker :  https://thepihut.com/products/mini-external-usb-stereo-speaker?srsltid=AfmBOopQVRhLHqBgGIsC4eccUKwmXt06rSDUlfESYZs8aFgG62tKm0h5
----
-$2.01 | circle push button : https://nl.aliexpress.com/item/1005008777109283.html?spm=a2g0o.productlist.main.4.744736b0fWIQDJ&aem_p4p_detail=202605070008075248557602892310004672931&algo_pvid=b93b5797-1774-4010-99a1-b945c5eea536&algo_exp_id=b93b5797-1774-4010-99a1-b945c5eea536-3&pdp_ext_f=%7B"order"%3A"687"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%213.72%210.86%21%21%2129.08%216.75%21%40211b80f717781376872336750ec9fe%2112000046625853604%21sea%21NL%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A32170391%3Bm03_new_user%3A-29895%3BpisId%3A5000000205564816&curPageLogUid=gdvzjdacPxtY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008777109283%7C_p_origin_prod%3A&search_p4p_id=202605070008075248557602892310004672931_1&gatewayAdapt=glo2nld
----
-$4.85 | Cable management cables (i bought the 50 , more than enough) : https://www.aliexpress.com/item/1005006980266553.html?spm=a2g0o.productlist.main.28.785e7bf900dwP3&aem_p4p_detail=202605041001001927853709928960008351194&algo_pvid=e6ad757e-3439-4ce2-a3f9-3fe64b209f7e&algo_exp_id=e6ad757e-3439-4ce2-a3f9-3fe64b209f7e-27&pdp_ext_f=%7B
----
-$1.59 | Oled display : https://www.aliexpress.com/item/1005010533773546.html?spm=a2g0o.productlist.main.12.80a0380fjYFo1g&algo_pvid=13b80a23-73aa-415c-a4bf-6fdd8fbb73d7&algo_exp_id=13b80a23-73aa-415c-a4bf-6fdd8fbb73d7-11&pdp_ext_f=%7B"order"%3A"62"%2C"spu_best_type"%3A"price"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21USD%213.74%211.59%21%21%2125.42%2110.78%21%40211b6c1917779258809727714ebb48%2112000052732003157%21sea%21GR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac3a18a13%3Bm03_new_user%3A-29895%3BpisId%3A5000000204855994&curPageLogUid=WitolwezkrXq&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010533773546%7C_p_origin_prod%3A 
----
-3.99$ | Micro HDMI-Compatible TO HDMI-Compatible Extension Male to Male Cable : https://www.aliexpress.com/item/1005005234656504.html?spm=a2g0o.productlist.main.25.1ffa46030Xsp2Z&algo_pvid=ef9e64bc-ab6f-4fa1-ac99-8cfcd52d0199&algo_exp_id=ef9e64bc-ab6f-4fa1-ac99-8cfcd52d0199-24&pdp_ext_f=%7B"order"%3A"154"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%215.49%213.51%21%21%2142.43%2127.10%21%402103846917789451558672003ecdcc%2112000032307161253%21sea%21GR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895%3BpisId%3A5000000205243253&curPageLogUid=JV3LkulakZBQ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005234656504%7C_p_origin_prod%3A
----
-25.69$ | New Solar Portable Power Bank :https://www.aliexpress.com/item/1005010643992027.html?spm=a2g0o.productlist.main.3.41346681ur9fpe&algo_pvid=ea67cea8-9845-4236-843e-33b20a6f9e56&algo_exp_id=ea67cea8-9845-4236-843e-33b20a6f9e56-2&pdp_ext_f=%7B"order"%3A"6"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%2122.89%2121.35%21%21%21179.12%21167.01%21%40210390c917778278427087013eee59%2112000053069134969%21sea%21GR%216144035917%21X%211%210%21n_tag%3A-29919%3Bd%3Ac2229ac9%3Bm03_new_user%3A-29895&curPageLogUid=qJimVCLho64i&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010643992027%7C_p_origin_prod%3A
 ---
 
-TOTAL : 424.15$
+# Specifications
 
+| Component | Details |
+|---|---|
+| Main Computer | Raspberry Pi 5 - 4GB |
+| Secondary MCU | ESP32-S3 |
+| Display | 10.1" Touchscreen LCD |
+| Storage | SanDisk Ultra microSDXC 256GB |
+| Input | Wireless keyboard with trackpad |
+| Audio | Mini USB stereo speakers |
+| Expansion | USB hub |
+| Case | Custom 3D printed enclosure |
+| Power | Portable power bank |
 
-[`bill of materials.xlsx`](BOM.xlsx)
+---
 
-## 3D Files
+# Parts List
 
-The file | [`Custumdeck case`](3d_design_case)| is the 3D file for the full design of the case 
+| Part | Price |
+|---|---|
+| Full Size Wireless Keyboard with Trackpad | $47.24 |
+| USB HUB x2 | $3.99 each |
+| USB A to Type-C Cable | $3.49 |
+| Arrow Keys Keyboard | $5.13 |
+| 10.1" LCD Touchscreen | $73.01 |
+| Sandisk Ultra microSDXC 256GB | $46.34 |
+| Anti-Drift Joystick | $2.30 |
+| ESP32-S3 Development Board | $3.99 |
+| Raspberry Pi 5 - 4GB | $146.53 |
+| Raspberry Pi 5 Aluminum Case | $11.61 |
+| Mini USB Stereo Speaker | $14.80 |
+| Circular Push Button | $2.01 |
+| Cable Management Kit | $4.85 |
+| OLED Display | $1.59 |
+| Micro HDMI to HDMI Cable | $3.99 |
+| Solar Portable Power Bank | $25.69 |
 
-## Wiring diagram
+## Total Cost
 
+> **~424.15 USD**
+
+---
+
+## Bill of Materials
+
+[`BOM.xlsx`](BOM.xlsx)
+
+---
+
+# 3D Files
+
+The folder:
+
+[`3d_design_case`](3d_design_case)
+
+contains the full 3D design files for the Costumdeck case.
+
+---
+
+# Wiring Diagram
+
+<p align="center">
 <img width="370" height="364" alt="wiring_diagram" src="https://github.com/user-attachments/assets/43dc4656-345b-439d-a339-1258e006b47e" />
-
-## How to build
-
-### Parts needed 
-see Parts List 
+</p>
 
 ---
 
-### 3D case printing
+# How to Build
 
-You will need to stop the printing at some point arround 4.5 hours so you can add the nuts in the holes 
+## Parts Needed
+
+See the **Parts List** section above.
 
 ---
 
-### Assembly 
-watch the video below:
+## 3D Printing the Case
+
+When printing the case, you will need to pause the print at around **4.5 hours** in order to insert the nuts into the mounting holes.
+
+After inserting the nuts, resume the print.
+
+---
+
+## Assembly
+
+Assembly video:
+
 [Video](link)
-> haven't uploaded it yet , because i dont have yet the parts
-> 
-## Zine page
 
-*Made for Hack Club Fallout -- Shenzhen 2025*
+> The assembly video has not been uploaded yet because the parts are still being delivered.
 
+---
+
+# Project Status
+
+🚧 Currently in Development
+
+### Completed
+- 3D case design
+- Wiring diagram
+- Parts list
+- Internal layout planning
+
+### In Progress
+- Parts ordering
+- Hardware assembly
+- Testing
+
+### Planned
+- Full software setup guide
+- Assembly video
+- Performance testing
+- Battery life benchmarks
+
+---
+
+# Zine Page
+
+*Made for Hack Club Fallout — Shenzhen 2025*
+
+<p align="center">
 <img width="1587" height="2245" alt="COSTUMDECK (1)" src="https://github.com/user-attachments/assets/4829ffee-e19c-4c67-8770-f5426b7ffbe2" />
+</p>
 
-## Credits
+---
 
-- [Fusion_360](https://fusion-360.en.uptodown.com/windows) — 3D Case Design
-- [HackClub](https://hackclub.com/) - HackClub gave me the chance to start this project
-- credits to [Giannhssal](https://github.com/giannhsal) - It was nice working together
+# Future Improvements
 
+- Better battery integration
+- Internal cooling improvements
+- More compact wiring
+- Better speaker placement
+- GPIO breakout access
+- Custom PCB for cleaner internal connections
+- Modular attachments
+- Better portability and durability
 
+---
 
+# Credits
 
+- [Fusion 360](https://fusion-360.en.uptodown.com/windows) — 3D case design
+- [Hack Club](https://hackclub.com/) — For giving me the opportunity to start this project
+- [@giannhsal](https://github.com/giannhsal) — Thanks for collaborating on the project
+
+---
+
+# License
+
+This project is open-source and intended for educational and personal use.
