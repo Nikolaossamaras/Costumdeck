@@ -124,7 +124,7 @@ This project is also a way for me to learn more about:
 | Solar Portable Power Bank | $25.69 |
 | M5 40mm hex screw x4 | 0.27$ | 
 | M5 20mm hex screw x2 | 0.16$ | 
-| M5 nuts x6 | ~€0.09 |
+| M5 nuts x6 | ~0.10$ |
 
 ## Total Cost
 
