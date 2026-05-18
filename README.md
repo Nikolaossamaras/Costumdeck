@@ -230,6 +230,7 @@ Assembly video:
 - [Fusion 360](https://fusion-360.en.uptodown.com/windows) — 3D case design
 - [Hack Club](https://hackclub.com/) — For giving me the opportunity to start this project
 - [@giannhsal](https://github.com/giannhsal) — Thanks for collaborating on the project
+- [fussdeek-del](https://github.com/fussdeek-del/N-X-H-desktop-Hud/tree/main) - His reposetory served me as reference to design mine
 
 ---
 
