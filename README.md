@@ -207,7 +207,7 @@ Assembly video:
 *Made for Hack Club Fallout — Shenzhen 2025*
 
 <p align="center">
-![Uploading COSTUMDECK (3).png…](
+<img width="1587" height="2245" alt="COSTUMDECK (3)" src="https://github.com/user-attachments/assets/cd5d811f-aaed-42ac-9e3c-485885ee26c1" />
 </p>
 
 ---
