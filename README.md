@@ -1,4 +1,4 @@
-<img width="1587" height="2245" alt="COSTUMDECK (3)" src="https://github.com/user-attachments/assets/b5df5af1-e9a5-44a7-9fde-fccc7d051d9d" /># Costumdeck
+# Costumdeck
 
 > A portable DIY cyberdeck powered by a Raspberry Pi 5 and built-in ESP32, designed for coding, hardware hacking, and building projects anywhere.
 
