@@ -142,7 +142,7 @@ This project is also a way for me to learn more about:
 
 The folder:
 
-[`3d_design_case`](3d_design_case)
+[`3d_design_case`](3D_case_design.step)
 
 contains the full 3D design files for the Costumdeck case.
 
