@@ -125,10 +125,12 @@ This project is also a way for me to learn more about:
 | M5 40mm hex screw x4 | 0.27$ | 
 | M5 20mm hex screw x2 | 0.16$ | 
 | M5 nuts x6 | ~0.10$ |
+| dual fan board | 1.32$ |
+|Jumper Dupont Wire Cable x3| 0.99$ each|
 
 ## Total Cost
 
-> **~ 425.55 USD**
+> **~ 424.87$ USD**
 
 ---
 
