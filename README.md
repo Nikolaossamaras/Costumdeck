@@ -229,6 +229,11 @@ Assembly video:
 - Better portability and durability
 
 ---
+# Firmware
+
+this project doesn't actually have it's own Firmware , but it has the raspberry pi os
+
+---
 
 # Credits
 
