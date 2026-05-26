@@ -153,7 +153,7 @@ contains the full 3D design files for the Costumdeck case.
 # Wiring Diagram
 
 <p align="center">
-<img width="370" height="364" alt="wiring_diagram" src="https://github.com/user-attachments/assets/43dc4656-345b-439d-a339-1258e006b47e" />
+<img width="664" height="651" alt="image" src="https://github.com/user-attachments/assets/37a9baae-025a-4028-a2f6-c9b3d6055ce1" />
 </p>
 
 ---
