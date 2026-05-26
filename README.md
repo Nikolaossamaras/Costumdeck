@@ -233,6 +233,9 @@ Assembly video:
 
 this project doesn't actually have it's own Firmware , but it has the raspberry pi os
 
+*You can see the instalation process in our video or in the video below*
+
+[Video](https://www.youtube.com/watch?v=RV0saVGXQ5k)
 ---
 
 # Credits
@@ -241,7 +244,7 @@ this project doesn't actually have it's own Firmware , but it has the raspberry 
 - [Hack Club](https://hackclub.com/) — For giving me the opportunity to start this project
 - [@giannhsal](https://github.com/giannhsal) — Thanks for collaborating on the project
 - [fussdeek-del](https://github.com/fussdeek-del/N-X-H-desktop-Hud/tree/main) - His reposetory served me as reference to design mine
-
+- [Gadgets Pod](https://www.youtube.com/@gadgetspod) - His video tutorial was used for the installation of the raspberry pi os
 ---
 
 # License
