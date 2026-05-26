@@ -236,6 +236,9 @@ This project doesn't actually have it's own Firmware , but it has the raspberry 
 *You can see the instalation process in our video or in the video below*
 
 ##### [`Video`](https://www.youtube.com/watch?v=RV0saVGXQ5k)
+
+> [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+
 ---
 
 # Credits
