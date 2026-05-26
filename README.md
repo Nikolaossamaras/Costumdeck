@@ -231,7 +231,7 @@ Assembly video:
 ---
 # Firmware
 
-this project doesn't actually have it's own Firmware , but it has the raspberry pi os
+This project doesn't actually have it's own Firmware , but it has the raspberry pi os
 
 *You can see the instalation process in our video or in the video below*
 
