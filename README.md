@@ -1,71 +1,58 @@
 # Costumdeck
 
-> A portable DIY cyberdeck powered by a Raspberry Pi 5 and built-in ESP32, designed for coding, hardware hacking, and building projects anywhere.
+> A portable DIY cyberdeck based on Raspberry Pi 5 and integrated ESP32, designed for coding, electronics hacking and developing any projects right where you are!
 
 ## What is Costumdeck?
 
-Costumdeck is a portable DIY cyberdeck inspired by retro-futuristic portable computers. It combines the power of a Raspberry Pi 5 with a built-in ESP32-S3, allowing you to code, prototype electronics projects, and build hardware wherever you are.
+Costumdeck is a retro-style portable computer designed for makers & developers, which incorporates Raspberry Pi 5 microcomputer together with integrated ESP32-S3 to enable coding, prototyping and working with electronics anywhere you can!
 
-The goal of this project is to create a compact “take-anywhere” development machine that works both as a Linux computer and an embedded systems workstation.
+The main idea behind this concept lies in development of a compact but versatile portable device that could be used both as a normal Linux-based computer and also as an embedded systems development station.
 
-Unlike a normal laptop, Costumdeck is fully customizable, modular, repairable, and designed specifically for makers and developers.
+In contrast with standard laptops, Costumdeck can be assembled from scratch, customized in any possible way and repaired in the future without any problems.
 
 ---
 
 ## Features
 
-- Portable Raspberry Pi 5 cyberdeck
-- Built-in ESP32-S3 for embedded development
-- 10.1" touchscreen display
-- Full-size wireless keyboard with integrated trackpad
-- Custom 3D printed case
-- OLED display for extra information/status
-- USB hub expansion
-- Portable power bank powered
-- Compact maker-focused workstation
-- Designed for coding and hardware projects on the go
-
+- Portable Raspberry Pi 5 cyberdeck 
+- ESP32-S3 on board for embedded development
+- 10.1” touchscreen display
+- Wireless full-sized keyboard + touchpad 
+- 3D printed case
+- OLED status/info display
+- USB Hub extension possibilities
+- Powerbank-powered device
+- Versatile portable maker’s workplace
 ---
+## Reasons for Creating it
 
-## Why I Built It
+I have been into coding and electronics projects since the beginning of time, but the thought of doing everything without having a desktop always lingered in my mind:
 
-I have always loved coding and building hardware projects, but I kept thinking:
+>"What if I can do all of these anywhere?"
 
-> “What if I could do all of this anywhere without needing a desktop setup?”
+That's why, instead of creating another electronics project, I decided to build my very own portable cyberdeck, that gives me the freedom of coding everywhere.
 
-I wanted something portable that could handle:
-- programming
-- electronics development
-- Linux tools
-- embedded systems projects
-- hardware prototyping
-
-So I decided to build my own cyberdeck — a fully portable DIY computer that allows me to code and build projects anywhere I go.
-
-This project is also a way for me to learn more about:
-- 3D design
+This will also be an opportunity to explore more areas of:
+- 3D modelling
 - electronics
 - embedded systems
-- hardware integration
 - portable computing
 
 ---
 
-## How to Use
+## Usage Instructions
 
-1. Power the device using the portable power bank
-2. Boot into Raspberry Pi OS
-3. Use the wireless keyboard and touchscreen for navigation
-4. Program the ESP32 directly from the Raspberry Pi
-5. Connect sensors, modules, or external devices using the USB hub and GPIO pins
+1. Power on the device using the portable battery pack
+2. Load up the Raspberry Pi OS
+3. Use the wireless keyboard and touchscreen interface
+4. Write the code directly on the Raspberry Pi and program the ESP32 chip 
+5. Attach your desired components to the USB hub and use the GPIO interface
 6. Use it as a portable workstation for:
-   - Python
-   - Arduino
-   - MicroPython
+   - Python coding
+   - Arduino programming
+   - MicroPython programming
    - Linux development
    - electronics projects
-   - hardware prototyping
-
 ---
 
 # Project Preview
@@ -158,53 +145,52 @@ contains the full 3D design files for the Costumdeck case.
 
 ---
 
-# How to Build
+# How to Construct
 
-## Parts Needed
+## Components Required
 
-See the **Parts List** section above.
-
----
-
-## 3D Printing the Case
-
-When printing the case, you will need to pause the print at around **4.5 hours** in order to insert the nuts into the mounting holes.
-
-After inserting the nuts, resume the print.
+Refer to the **Components Required** section listed above.
 
 ---
 
-## Assembly
+## 3D Printing the Box
 
-Assembly video:
+During the process of printing the box, it is required to pause the printer after about **4.5 hours**, which allows for installing the nuts in the slots.
+
+Then continue with printing.
+
+---
+
+## Construction Process
+
+Construction video:
 
 [Video](link)
 
-> The assembly video has not been uploaded yet because the parts are still being delivered.
+> The assembly video is not available yet since the components are not delivered yet.
 
 ---
 
 # Project Status
 
-🚧 Currently in Development
+🚧 Currently under Development
 
-### Completed
+### Done
 - 3D case design
-- Wiring diagram
-- Parts list
-- Internal layout planning
+- Circuit schematic
+- Component list
+- Internal layout design
 
-### In Progress
-- Parts ordering
-- Hardware assembly
+### Working on
+- Components ordering
+- System assembly
 - Testing
 
-### Planned
-- Full software setup guide
+### Coming Soon
+- Comprehensive software installation tutorial
 - Assembly video
 - Performance testing
-- Battery life benchmarks
-
+- Battery life testing
 ---
 
 # Zine Page
@@ -219,21 +205,21 @@ Assembly video:
 
 # Future Improvements
 
-- Better battery integration
-- Internal cooling improvements
-- More compact wiring
-- Better speaker placement
-- GPIO breakout access
-- Custom PCB for cleaner internal connections
-- Modular attachments
-- Better portability and durability
+- Improved battery integration
+- Improvements in internal cooling
+- Smaller wiring size
+- Improved speaker placement
+- Access to GPIO
+- Custom PCB for better internal connections
+- Attachable parts
+- Increased portability and durability
 
 ---
 # Firmware
 
-This project doesn't actually have it's own Firmware , but it has the raspberry pi os
+It is important to note that this project does not use any Firmware by itself, rather it uses Raspberry Pi OS.
 
-*You can see the instalation process in our video or in the video below*
+*"Installation Process can be seen in video"*
 
 ##### [`Video`](https://www.youtube.com/watch?v=RV0saVGXQ5k)
 
@@ -243,10 +229,10 @@ This project doesn't actually have it's own Firmware , but it has the raspberry 
 
 # Credits
 
-- [Fusion 360](https://fusion-360.en.uptodown.com/windows) — 3D case design
-- [Hack Club](https://hackclub.com/) — For giving me the opportunity to start this project
-- [@giannhsal](https://github.com/giannhsal) — Thanks for collaborating on the project
-- [fussdeek-del](https://github.com/fussdeek-del/N-X-H-desktop-Hud/tree/main) - His reposetory served me as reference to design mine
+- [Fusion 360](https://fusion-360.en.uptodown.com/windows) – 3D Case Designing
+- [Hack Club](https://hackclub.com/) – For giving me the chance to embark on this project
+- [@giannhsal](https://github.com/giannhsal) – Thank you for working together on the project
+- [fussdeek-del](https://github.com/fussdeek-del/N-X-H-desktop-Hud/tree/main) – This is how his repository inspired me while
 - [Gadgets Pod](https://www.youtube.com/@gadgetspod) - His video tutorial was used for the installation of the raspberry pi os
 ---
 
